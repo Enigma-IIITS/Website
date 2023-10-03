@@ -1,0 +1,16 @@
+{
+    "name": "CLUB ENIGMA",
+    "description": ["Your blogpost now belong to me"],
+    "profile_picture": "pfp.png",
+    "blogs": [
+        {
+            "name": "Welcome to Club Enigma!",
+            "link": "welcome.md"
+        }
+    ],
+    "github": "https://github.com/Enigma-IIITS",
+    "instagram": "link-to-insta",
+    "linkedin": "link-to-linkedin",
+    "mail": "lalala@lololo.com",
+    "copyright": "© 2023 Club Enigma"
+}
