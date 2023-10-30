@@ -6,6 +6,15 @@
         {
             "name": "Welcome to Club Enigma!",
             "link": "welcome.md"
+        },
+        {
+            "name": "Computer Graphics",
+            "series": [
+                {
+                    "name": "Introduction to Computer Graphics",
+                    "link": "cg/cg_intro.md"
+                }
+            ]
         }
     ],
     "github": "https://github.com/Enigma-IIITS",
