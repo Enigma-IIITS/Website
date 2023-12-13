@@ -2,11 +2,6 @@
 Welcome to Club Enigma!
 =======================
 
-[PROJECTS](index.html) THEME
-
-CLUB ENIGMA
-===========
-
 ABOUT US
 --------
 
