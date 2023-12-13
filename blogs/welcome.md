@@ -45,6 +45,4 @@ OUR MISSION
     
     Computer Graphics is a fascinating and dynamic field that encompasses a wide range of cross domain projects and applications. This multidisciplinary field leverages GPU acceleration using many advanced techniques. It ranges from building cross-platform GUI frameworks to exploring fractal patterns and simulating intricate forces, encompassing a broad spectrum of projects,each pushing the boundaries of visual computing.
     
-
-
-                                                                        © 2023 Club Enigma
+                                                            © 2023 Club Enigma
