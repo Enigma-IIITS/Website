@@ -8,10 +8,15 @@
   <style>
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
-    span.underline{text-decoration: underline;}
-    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
     ul.task-list{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
     .display.math{display: block; text-align: center; margin: 0.5rem auto;}
   </style>
   <link rel="stylesheet" href="blog.css" />
@@ -28,9 +33,48 @@ CLUB ENIGMA
 </h1>
 <div class="contents">
 <p><a class='home' href=index.html>HOME</a>
-<button id="btn" onclick="setTheme()">THEME</button></p>
+<button id='btn' onclick='setTheme()'>THEME</button></p>
 <hr />
-<h1 id="hi">HI</h1>
+<h1 id="welcome-to-club-enigma">Welcome to Club Enigma!</h1>
+<h2 id="about-us">ABOUT US</h2>
+<p>“ENIGMA” is the he distinguished technical club at the Indian
+Institute of Information Technology (IIIT) that is dedicated to pushing
+the boundaries of technology through practical, hands-on projects. At
+Enigma, we believe in the power of doing, and our primary focus is on
+Computer Graphics, Cybersecurity, Distributed systems, and System
+software.</p>
+<h3 id="team-lead-arka-mondal">Team Lead : Arka Mondal</h3>
+<h3 id="team-co-lead-kalyan">Team Co-Lead : Kalyan</h3>
+<h2 id="our-mission">OUR MISSION</h2>
+<ul>
+<li><h3 id="cyber-security">CYBER SECURITY:</h3>
+<h4 id="domain-lead-hruthik">Domain Lead : Hruthik</h4>
+<p>This domain is a multifaceted discipline that adapts to the evolving
+digital landscape. It combines advanced technologies and comprehensive
+strategies. Exploring and protecting your digital world is its
+vision.</p></li>
+<li><h3 id="distributed-systems">DISTRIBUTED SYSTEMS:</h3>
+<h4 id="domain-leadaahnik-daw">Domain Lead:Aahnik Daw</h4>
+<p>With the advancement in technology becoming more distributed and
+interconnected,this domain has become crucial. It delves into cloud
+computing ,network protocols,and blockchain to build more scalable and
+efficient systems.</p></li>
+<li><h3 id="system-software">SYSTEM SOFTWARE:</h3>
+<h4 id="domain-leadsaurabh-pal">Domain Lead:Saurabh Pal</h4>
+<p>System software being the backbone of modern computing,inspires the
+tech enthusiasts to explore and have hands on experience on developing
+and optimizing the computer systems like operating systems,utility
+programs etc.</p></li>
+<li><h3 id="computer-graphics">COMPUTER GRAPHICS:</h3>
+<h4 id="domain-leadurjasvi-suthar">Domain Lead:Urjasvi Suthar</h4>
+<p>Computer Graphics is a fascinating and dynamic field that encompasses
+a wide range of cross domain projects and applications. This
+multidisciplinary field leverages GPU acceleration using many advanced
+techniques. It ranges from building cross-platform GUI frameworks to
+exploring fractal patterns and simulating intricate forces, encompassing
+a broad spectrum of projects,each pushing the boundaries of visual
+computing.</p></li>
+</ul>
 <script src="highlight.min.js"></script>
 <script>hljs.highlightAll();</script>
 <script>const stylesheet = document.documentElement.style;
