@@ -2,8 +2,8 @@ import Slate.slate as slate
 
 site = slate.Site()
 site.name = "CLUB ENIGMA"
-site.description = "ENIGMA is the he distinguished technical club at the Indian Institute of Information Technology (IIIT)that is dedicated to pushing the boundaries of technology through practical, hands-on projects.
-At Enigma, we believe in the power of doing, and our primary focus is on Computer Graphics,Cybersecurity, Distributed systems, and System software."
+site.description = '''ENIGMA is the he distinguished technical club at the Indian Institute of Information Technology (IIIT)that is dedicated to pushing the boundaries of technology through practical, hands-on projects.
+At Enigma, we believe in the power of doing, and our primary focus is on Computer Graphics,Cybersecurity, Distributed systems, and System software.'''
 site.picture = "pfp.png"
 
 site.blogs.append(slate.Blog("Welcome to Club Enigma!", "welcome.md", False))
