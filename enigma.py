@@ -16,5 +16,5 @@ site.contacts.append(slate.Contact.github("https://github.com/Enigma-IIITS"))
 site.contacts.append(slate.Contact.instagram("https://instagram.com/enigmaiiits"))
 site.contacts.append(slate.Contact.linkedin("https://www.linkedin.com/company/enigmaiiits"))
 site.contacts.append(slate.Contact.mail("enigma.club@iiits.in"))
-site.copyright = "© 2023 Club Enigma"
+site.copyright = "© 2024 Club Enigma"
 slate.generate_site(site)
