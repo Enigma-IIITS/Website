@@ -1,18 +1,26 @@
 
-Welcome to Club Enigma!
-=======================
+# Welcome to Club Enigma!
 
-ABOUT US
---------
+## ABOUT US
 
-"ENIGMA" is the he distinguished technical club at the Indian Institute of Information Technology (IIIT) that is dedicated to pushing the boundaries of technology through practical, hands-on projects. At Enigma, we believe in the power of doing, and our primary focus is on Computer Graphics, Cybersecurity, Distributed systems, and System software.
+---
 
-### Team Lead : Arka Mondal
+**Club Enigma** is the distinguished **research-funded** technical club at the Indian Institute of Information Technology Sri-City (IIITS) that are heralding new-generation research of technology through practical and experimental projects by members from each core computer science domain
+such as **System Software**, **Cybersecurity**, **Computer Graphics** and **Distributed Systems**.
 
-### Team Co-Lead : Kalyan
+It is led by **Arka Mondal**, co-led by **Kalyan Bezawada Chakravarthy** and each domain led by **Saurabh Pal**, **Hruthik Chitty**, **Urjasvi Suthar** and **Aahnik Daw** respectively.
+The club consist of total of 23 diverse group of members from different part of India, which are inclusive of gender and disability.
 
-OUR MISSION
------------
+## OUR MISSION
+
+---
+
+Our mission is to provide members a platform and resources to research, experiment and create projects they are interested in. We believe in equiping each members with both technical and non-technical knowledge
+and skills that allow them to improve and fullfill their latent potential. We aim to not only create technologies inside, but also participate in hackathon, host events and bring industry expert to share their immense knowledge with rest of college.
+
+## OUR PROJECTS
+
+---
 
 *   ### CYBER SECURITY:
     
